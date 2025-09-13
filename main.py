@@ -1,4 +1,4 @@
-weight = float(input('请输入你当前在地球上的体重:')
+weight = float(input('请输入你当前在地球上的体重:'))
 a = 0.5
 moon = 0.165
 print('未来10年地球和月球体重变化:')
